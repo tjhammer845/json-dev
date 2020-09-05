@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Companies I've worked at - JSON</title>
+  </head>
+  <body>
+    <script type="text/javascript">
+      let companies = [
+        {
+          name: "Clarus Commerce",
+          numberOfEmployees: 127,
+          ceo: "Tom Caporaso",
+          rating: 4.2,
+        },
+        {
+          name: "Qscend Technologies",
+          numberOfEmployees: 16,
+          ceo: "Keith Lebeau",
+          rating: 3.0,
+        },
+        {
+          name: "Omega Communications",
+          numberOfEmployees: 6,
+          ceo: "Charlie Cocuzza",
+          rating: 0,
+        },
+      ];
+
+      console.log(JSON.parse(companies)[0].name);
+    </script>
+  </body>
+</html>

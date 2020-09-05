@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Clarus Commerce",
+    "numberOfEmployees": 127,
+    "ceo": "Tom Caporaso",
+    "rating": 4.2
+  },
+  {
+    "name": "Qscend Technologies",
+    "numberOfEmployees": 16,
+    "ceo": "Keith Lebeau",
+    "rating": 3.0
+  },
+  {
+    "name": "Omega Communications",
+    "numberOfEmployees": 6,
+    "ceo": "Charlie Racist Asshole",
+    "rating": 0
+  }
+]
